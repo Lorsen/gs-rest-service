@@ -7,7 +7,7 @@ public class Greeting {
 
     public Greeting(long id, String content) {
         this.id = id;
-        this.conent = content;
+        this.content = content;
     }
 
     public long getId() {
